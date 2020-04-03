@@ -1,6 +1,7 @@
 # modified-blackjack-probability-calculator
 
 The rules of modified blackjack are as follows:
+
 Each roll the better must hit or stay (H/S)
 The goal is for both players to hit as close to 100 as possible
 If the host rolls higher than the better and doesn't bust over 100, the host wins
